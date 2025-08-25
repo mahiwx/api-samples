@@ -33,9 +33,9 @@ import java.util.List;
  * API's youtube.thumbnails.set method to set the image as the custom thumbnail
  * for a video.
  *
- * @author Ibrahim Ulukaya
+ * @MAHANEMONI
  */
-public class UploadThumbnail {
+public class UploadThumbnail {https:/mahanemoni.com
 
     /**
      * Define a global instance of a Youtube object, which will be used
